@@ -1,0 +1,12 @@
+F:\Practice\generics\generics\bin\Debug\generics.exe.config
+F:\Practice\generics\generics\bin\Debug\generics.exe
+F:\Practice\generics\generics\bin\Debug\generics.pdb
+F:\Practice\generics\generics\obj\Debug\generics.csprojResolveAssemblyReference.cache
+F:\Practice\generics\generics\obj\Debug\generics.exe
+F:\Practice\generics\generics\obj\Debug\generics.pdb
+D:\Practice\generics\generics\bin\Debug\generics.exe.config
+D:\Practice\generics\generics\bin\Debug\generics.exe
+D:\Practice\generics\generics\bin\Debug\generics.pdb
+D:\Practice\generics\generics\obj\Debug\generics.csprojResolveAssemblyReference.cache
+D:\Practice\generics\generics\obj\Debug\generics.exe
+D:\Practice\generics\generics\obj\Debug\generics.pdb
